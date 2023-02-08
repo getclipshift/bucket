@@ -1,16 +1,16 @@
 {
-  "version": "0.1.14-beta.1",
+  "version": "0.1.14-beta.4",
   "description": "Command line syncing application",
   "homepage": "https://github.com/getclipshift/clipshift",
   "license": "MIT",
   "architecture": {
       "64bit": {
-          "url": "https://github.com/getclipshift/clipshift/releases/download/v0.1.14-beta.1/clipshift_windows_amd64.zip",
-          "hash": "a7f26310bcbf2eaa3b9701669409b612470cf8db47e638f8a96260093fa8d024"
+          "url": "https://github.com/getclipshift/clipshift/releases/download/v0.1.14-beta.4/clipshift_windows_amd64.zip",
+          "hash": "304a2bc3d3f6d5cc32cacc7913102ea3e0250d3a92eaa070230d0f941617e80b"
       },
       "arm64": {
-          "url": "https://github.com/getclipshift/clipshift/releases/download/v0.1.14-beta.1/clipshift_windows_arm64.zip",
-          "hash": "7b7a5a8c15844d8b626432ee1200a2ec4ad028749aff7ea97975f6bb512053d8"
+          "url": "https://github.com/getclipshift/clipshift/releases/download/v0.1.14-beta.4/clipshift_windows_arm64.zip",
+          "hash": "867071871280453b01e08839072772fe9b962ec8c518365d06f4b136a971fc42"
       }
   },
   "bin": [
@@ -24,10 +24,10 @@
   "autoupdate": {
       "architecture": {
           "64bit": {
-              "url": "https://github.com/getclipshift/clipshift/releases/download/v0.1.14-beta.1/clipshift_windows_amd64.zip"
+              "url": "https://github.com/getclipshift/clipshift/releases/download/v0.1.14-beta.4/clipshift_windows_amd64.zip"
           },
           "arm64": {
-              "url": "https://github.com/getclipshift/clipshift/releases/download/v0.1.14-beta.1/clipshift_windows_arm64.zip"
+              "url": "https://github.com/getclipshift/clipshift/releases/download/v0.1.14-beta.4/clipshift_windows_arm64.zip"
           }
       }
   }
